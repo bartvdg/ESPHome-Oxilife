@@ -28,4 +28,4 @@ This project reads water quality and treatment parameters from an Oxilife device
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/bartvdg/ESPHome-Oxilife.git
