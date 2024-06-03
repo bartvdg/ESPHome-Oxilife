@@ -20,6 +20,7 @@ This project reads water quality and treatment parameters from an Oxilife device
 ### Prerequisites
 
 - RPI PicoW
+- Grove RS-485
 - Oxilife device
 - Home Assistant
 - ESPhome
